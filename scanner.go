@@ -1,4 +1,4 @@
-package jScan
+package goScan
 
 import (
 	"bufio"
