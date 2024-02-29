@@ -1,4 +1,4 @@
-package goScan
+package goscan
 
 import (
 	"bufio"
