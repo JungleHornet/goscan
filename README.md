@@ -14,9 +14,7 @@ import (
 
 func main() {
 s := goscan.NewScanner()
-input := s.ReadLine()
-// The program will wait for user input then store it in the variable 'input'.
-// The program will then print the user's input in the console:
-fmt.Println(input)
+input := s.ReadLine() // The program will wait for user input then store it in the variable 'input'.
+fmt.Println(input) // The program will then print the user's input in the console:
 }
 ```
